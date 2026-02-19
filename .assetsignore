@@ -1,0 +1,6 @@
+.git
+.gitignore
+.idea
+.wrangler
+wrangler.toml
+CNAME
