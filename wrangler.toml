@@ -7,5 +7,5 @@ compatibility_date = "2026-02-19"
 directory = "./"
 
 # Since you have a 404.html file, this tells Cloudflare to serve it
-# when a requested file is not found.
+# when a requested file is not found
 not_found_handling = "404-page"
